@@ -1,7 +1,7 @@
 # TobiiJoystick
 Eye gaze to joystick button presses
 
-This software is used to simulate joystick button presses when the user moves their eye gaze from the screen to areas just outside the screen. Configuration settings allow the mapping of these areas to specific button presses. These button presses may be used with software such as [https://thinksmartbox.com/download-grid-3/]
+This software is used to simulate joystick button presses when the user moves their eye gaze from the screen to areas just outside the screen. Configuration settings allow the mapping of these areas to specific button presses. These button presses may be used with software such as [https://thinksmartbox.com/product/grid-3/]
 
 When the software detects that the specific gaze events, it sends messages to an Arduino Leonardo which acts as a serial-joystick bridge device; this device emulates a USB joystick.
 
