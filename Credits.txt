@@ -1,0 +1,3 @@
+﻿Icon is from https://www.flaticon.com/free-icon/vision_993716
+Icon converted with https://www.icoconverter.com/
+Code initially based from https://github.com/Tobii/CoreSDK/tree/master/samples/Streams/TobiiJoystick
